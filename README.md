@@ -18,7 +18,15 @@
 </p>
   
 
+  
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johkakka&bg_color=30,f5f7fa,e2ebf0&title_color=000&text_color=000&layout=compact" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=johkakka&bg_color=30,f5f7fa,e2ebf0&title_color=000&text_color=000" />
+  <img alt="Top Langs" width="715px" src="https://raw.githubusercontent.com/johkakka/johkakka/main/profile-summary-card-output/nord_bright/0-profile-details.svg" />
+    </br>
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johkakka&bg_color=eceff4&title_color=3a4251&text_color=65949f&layout=compact" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=johkakka&bg_color=eceff4&title_color=3a4251&text_color=65949f" />
+    </br>
+  <img alt="Top Langs" width="352px" src="https://raw.githubusercontent.com/johkakka/johkakka/main/profile-summary-card-output/nord_bright/3-stats.svg" />
+  <img alt="github stats" width="352px" src="https://raw.githubusercontent.com/johkakka/johkakka/main/profile-summary-card-output/nord_bright/4-productive-time.svg" />
 </p>
+
+
