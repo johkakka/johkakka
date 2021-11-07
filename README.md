@@ -1,3 +1,5 @@
+<h2> Hi! I'm johkakka <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="24"/></h2>
+
 <p align="left"> 
   <a href="https://github.com/johkakka/johkakka/">
     <img src="https://komarev.com/ghpvc/?username=johkakka" alt="johkakka" />
@@ -8,15 +10,10 @@
   <a href="https://github.com/johkakka">
     <img height="20" src="https://img.shields.io/github/followers/johkakka?label=follow&logo=github&style=flat" />
   </a>
-
-  <a href="http://qiita.com/johkakka">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/johkakka/posts.svg" />
-  </a>
-  <//qiita.com/johkakka">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/johkakka/contributions.svg" />
-  </a>
 </p>
-  
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/johkakka/posts.svg)](http://qiita.com/johkakka)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/johkakka/contributions.svg)](http://qiita.com/johkakka)
 
   
 <p align="left"> 
